@@ -14,15 +14,13 @@ git clone https://github.com/codermyagiz/Python-Trex-Game-EN
 ```
 Then, to enter the folder we downloaded:
 ```
-cd Python-Trex-Game-TR
-
+cd Python-Trex-Game-EN
 ```
 İf you haven't Python you have to download python. [You can download it here.](https://www.python.org/downloads/)
 Then, we'll download needed libraries:
 
 ```
 pip install -U -q -r requirements.txt
-
 ```
 
 ## Click Here To Watch YouTube Video Of The Installation:
