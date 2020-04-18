@@ -10,7 +10,6 @@ First we need to clone this project:
 
 ```
 git clone https://github.com/codermyagiz/Python-Trex-Game-EN
-
 ```
 Then, to enter the folder we downloaded:
 ```
